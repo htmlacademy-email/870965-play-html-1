@@ -1,7 +1,7 @@
 # Личный проект «PlayHTML»
 
 * Студент: [Ваня Ньюман](https://up.htmlacademy.ru/email/1/user/870965).
-* Наставник: [Опознанный 😀 Енот](https://htmlacademy.ru/profile/id12065491).
+* Наставник: [Опознанный 😀 😜 Енот](https://htmlacademy.ru/profile/id12065491).
 
 ---
 
